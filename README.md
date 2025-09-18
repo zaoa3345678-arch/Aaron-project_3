@@ -4,4 +4,4 @@ equipment background
 software limitation
 speed
 
-the repository is belong to A
+the repository is belong to nothing
